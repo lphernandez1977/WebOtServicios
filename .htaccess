@@ -1,0 +1,2 @@
+AuthUserFile C:\HostingSpaces\emaccl\e-mac.cl\wwwroot\.htpasswd
+AuthGroupFile C:\HostingSpaces\emaccl\e-mac.cl\wwwroot\.htgroup

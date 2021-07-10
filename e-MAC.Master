@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="e-MAC.master.cs" Inherits="WebOtServicios.e_MAC" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" href="../Img/home_32.ico" sizes="32x32" />
+     <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous">
+    </script>
+     <!-- Bootstrap -->
+    <link href="Css/bootstrap.css" rel="stylesheet" />
+    <link href="Css/Custom-Cs.css" rel="stylesheet" />
+    <title>e-MAC Ingeniería Eléctrica y Mantenimiento Industrial</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<div class="form-horizontal">        
+    <div style="border-bottom: #000000 2px solid; height:95px;">
+        <div style="text-align:left;width:100%; float: left;">     
+            <img alt="" src="img/logo-cloud.png"/>
+        </div>        
+    </div>  
+</div>
+    <div>
+    <form id="form1" runat="server">   
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>      
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">       
+            
+        </asp:ContentPlaceHolder>
+    </form>
+    </div>
+</body>
+</html>

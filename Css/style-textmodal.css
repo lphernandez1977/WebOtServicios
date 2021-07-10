@@ -1,0 +1,103 @@
+﻿.text-obligatorio {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-align:left;
+    color:#d51010;    
+}
+
+.text-login {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-align:left;
+    color:#6C6E70;    
+}
+
+.text-h1 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    text-align:left;
+    color:#6C6E70;
+}
+
+
+.text-h2 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    text-align:left;
+    color:#6C6E70;   
+    height:32px; 
+}
+
+
+.text-10 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    text-align:left;
+    color:#6C6E70;    
+}
+
+.text-11 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 11px;
+    text-align:left;
+    color:#6C6E70;    
+}
+.text-12 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    text-align:left;
+    color:#6C6E70;    
+}
+.text-14 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    text-align:left;
+    color:#6C6E70;    
+}
+.text-16 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-align:left;
+    color:#6C6E70;   
+}
+.text-20 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    text-align:left;
+    color:#6C6E70;    
+}
+
+.text-20-v2 {
+    font-family: "sans-serif";
+    font-size: 20px;
+    text-align:left;
+    color:#000066;    
+}
+
+.text-35-v2 {
+    font-family: "sans-serif";
+    font-size: 35px;
+    text-align:left;
+    color:#000066;    
+}
+
+.text-22 {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    text-align:left;
+    color:#6C6E70;    
+}
+
+.text-16inf {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-align:left;
+    color:#3399ff;   
+}
+
+.text-16etapa {
+    font-family: "Segoe UI","Segoe",Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    text-align:left;
+    color:#257c0c;   
+}

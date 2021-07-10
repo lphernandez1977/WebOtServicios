@@ -1,0 +1,100 @@
+﻿body
+{
+	font-family: Tahoma, Arial, Courier New;	
+}
+
+td
+{
+	color: Black;
+	font-size: 11px;	
+}
+
+td #tit_01
+{
+	color: Blue;
+	font-size: 12px;
+	height: 30px;   
+}
+
+.cab_01
+{
+
+    color: #000000;
+	font-size: 14px;
+	height: 30px;
+	/*line-height: 12px;*/
+	text-decoration: none;
+	border: #C0C0C0 0px solid ;	
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	
+    text-align:left;
+    text-transform: uppercase;
+}
+
+.cab_02
+{
+    font-size: 14px;
+	height: 30px;
+	line-height: 12px;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: #C0C0C0 0px solid ;	
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	
+    text-align:center;    
+    width:100%;
+    text-transform: uppercase;
+       
+    /*min-width:150px;*/
+}
+
+.text_01
+{
+    color: #333;
+    font-size: 14px;
+	height: 30px;
+	line-height: 12px;
+	/*text-decoration: none;*/
+	/*background-color: #ffffff;*/
+	border: #C0C0C0 1px solid ;
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	
+    text-align:center;    
+    width:200px;    
+}
+
+.cabe_03
+{
+    color: Black;
+	font-size: 18px;
+	height: 35px;
+	line-height: 12px;
+	text-decoration: none;
+	border: #C0C0C0 0px solid ;	
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	
+    text-align:center;   
+    /*font-weight:bold;*/
+}
+
+.bntIng_01
+{
+    color: #ffffff;
+	font-size: 18px;
+    background-color: #00BFFF;
+	height: 30px;
+	line-height: 12px;
+	text-decoration: none;
+	border: #39BB9C 1px solid ;	
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	   
+    text-align:center;  
+    width: 120px; 
+}
+
+.error_01
+{
+    color: #f00;
+	font-size: 12px;		
+	text-decoration: none;
+    text-transform:none;
+	border: #C0C0C0 0px solid ;	
+    font-family: Calibri, 'Comic Sans MS',  sans-serif, Arial, Tahoma, Courier New;	
+    text-align:center;   
+    /*font-weight:bold;*/
+}

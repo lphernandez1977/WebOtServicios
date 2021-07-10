@@ -1,0 +1,44 @@
+﻿.modalBackground
+{
+	/*background-color: #ffffff;
+	filter: alpha(opacity=80);
+	opacity: 0.8;*/
+
+    background-color: #808080;
+    filter: alpha(opacity=90);
+    opacity: 0.8;
+}
+
+.modalBackground-mensaje
+{
+	/*background-color: #808080;
+	filter: alpha(opacity=80);
+	opacity: 0.8;*/
+
+        background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        border-color: #39BB9C;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 350px;
+        height: 200px;
+}
+
+.modalBackground-espere
+{
+	/*background-color: #808080;
+	filter: alpha(opacity=80);
+	opacity: 0.8;*/
+
+        background-color: #FFFFFF;
+        border-width: 3px;
+        border-style: solid;
+        border-color: #39BB9C;
+        padding-top: 10px;
+        padding-left: 10px;
+        width: 350px;
+        height: 150px;
+}
+
+    
